@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.operacioncontorno;
 import java.util.*;
 
-/**
- *
- * @author Gabriel
- */
 public class OperacionContorno {
 
     public static void main(String[] args) {
